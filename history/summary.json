@@ -24,19 +24,19 @@
     "url": "https://analytics.doodadlabs.org/",
     "icon": "https://icons.duckduckgo.com/ip3/analytics.doodadlabs.org.ico",
     "slug": "analytics",
-    "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "91.51%",
-    "uptimeWeek": "98.79%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.79%",
-    "time": 244,
-    "timeDay": 278,
-    "timeWeek": 244,
-    "timeMonth": 235,
-    "timeYear": 244,
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "90.20%",
+    "uptimeWeek": "98.60%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.76%",
+    "time": 246,
+    "timeDay": 288,
+    "timeWeek": 252,
+    "timeMonth": 238,
+    "timeYear": 246,
     "dailyMinutesDown": {
-      "2025-11-18": 122
+      "2025-11-18": 141
     }
   }
 ]

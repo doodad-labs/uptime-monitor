@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.88%",
-    "time": 351,
-    "timeDay": 494,
-    "timeWeek": 306,
-    "timeMonth": 335,
-    "timeYear": 351,
+    "time": 353,
+    "timeDay": 480,
+    "timeWeek": 347,
+    "timeMonth": 338,
+    "timeYear": 353,
     "dailyMinutesDown": {
       "2025-11-18": 85
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/analytics.doodadlabs.org.ico",
     "slug": "analytics",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
-    "uptimeYear": "99.80%",
-    "time": 243,
-    "timeDay": 337,
-    "timeWeek": 224,
-    "timeMonth": 238,
-    "timeYear": 243,
+    "uptimeYear": "99.81%",
+    "time": 242,
+    "timeDay": 175,
+    "timeWeek": 229,
+    "timeMonth": 236,
+    "timeYear": 242,
     "dailyMinutesDown": {
       "2025-11-18": 141
     }

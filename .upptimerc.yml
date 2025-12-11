@@ -5,6 +5,8 @@ repo: uptime-monitor
 sites:
   - name: Main Site
     url: https://doodadlabs.org
+  - name: Threat Intelligence
+    url: https://threat.doodadlabs.org/health
   - name: Analytics
     url: https://analytics.doodadlabs.org/
     expectedStatusCodes:

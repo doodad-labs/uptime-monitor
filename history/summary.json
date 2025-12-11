@@ -11,13 +11,31 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.91%",
     "time": 349,
-    "timeDay": 421,
-    "timeWeek": 327,
+    "timeDay": 377,
+    "timeWeek": 328,
     "timeMonth": 317,
     "timeYear": 349,
     "dailyMinutesDown": {
       "2025-11-18": 85
     }
+  },
+  {
+    "name": "Threat Intelligence",
+    "url": "https://threat.doodadlabs.org/health",
+    "icon": "https://icons.duckduckgo.com/ip3/threat.doodadlabs.org.ico",
+    "slug": "threat-intelligence",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 286,
+    "timeDay": 286,
+    "timeWeek": 286,
+    "timeMonth": 286,
+    "timeYear": 286,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Analytics",
@@ -30,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.84%",
-    "time": 255,
-    "timeDay": 365,
-    "timeWeek": 335,
-    "timeMonth": 268,
-    "timeYear": 255,
+    "time": 253,
+    "timeDay": 222,
+    "timeWeek": 303,
+    "timeMonth": 263,
+    "timeYear": 253,
     "dailyMinutesDown": {
       "2025-11-18": 141
     }

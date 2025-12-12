@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.91%",
-    "time": 349,
-    "timeDay": 377,
-    "timeWeek": 328,
-    "timeMonth": 317,
-    "timeYear": 349,
+    "time": 350,
+    "timeDay": 378,
+    "timeWeek": 333,
+    "timeMonth": 324,
+    "timeYear": 350,
     "dailyMinutesDown": {
       "2025-11-18": 85
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 286,
-    "timeDay": 286,
-    "timeWeek": 286,
-    "timeMonth": 286,
-    "timeYear": 286,
+    "time": 311,
+    "timeDay": 311,
+    "timeWeek": 311,
+    "timeMonth": 311,
+    "timeYear": 311,
     "dailyMinutesDown": {}
   },
   {
@@ -43,16 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/analytics.doodadlabs.org.ico",
     "slug": "analytics",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
-    "uptimeYear": "99.84%",
-    "time": 253,
-    "timeDay": 222,
-    "timeWeek": 303,
+    "uptimeYear": "99.85%",
+    "time": 252,
+    "timeDay": 119,
+    "timeWeek": 274,
     "timeMonth": 263,
-    "timeYear": 253,
+    "timeYear": 252,
     "dailyMinutesDown": {
       "2025-11-18": 141
     }

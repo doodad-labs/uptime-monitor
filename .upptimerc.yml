@@ -7,12 +7,6 @@ sites:
     url: https://doodadlabs.org
   - name: Threat Intelligence
     url: https://threat.doodadlabs.org/health
-  - name: Analytics
-    url: https://analytics.doodadlabs.org/
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 404
 assignees:
   - NotReeceHarris
 status-website:

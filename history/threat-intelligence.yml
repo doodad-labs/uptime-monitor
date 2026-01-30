@@ -1,7 +1,7 @@
 url: https://threat.doodadlabs.org/health
-status: up
-code: 200
-responseTime: 143
-lastUpdated: 2026-01-29T23:32:35.088Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2026-01-30T14:41:21.061Z
 startTime: 2025-12-11T14:01:53.258Z
 generator: Upptime <https://github.com/upptime/upptime>
